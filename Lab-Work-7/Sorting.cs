@@ -208,7 +208,7 @@ namespace Lab_Work_7
 				list[i] = list[j];
 				list[j] = temp;
 			}
-			return list;
+			return list;	//kek
 		}
 
 	}
